@@ -1,0 +1,34 @@
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\EnviaEmail .dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\EnviaEmail .pdb
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Filip\source\repos\AutoEmails\WinFormsApp1\bin\Debug\net6.0-windows\appsettings.json

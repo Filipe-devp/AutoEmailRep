@@ -1,0 +1,12 @@
+C:\Users\Filip\source\repos\AutoEmails\EnviaEmail\obj\Debug\net6.0\EnviaEmail.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\AutoEmails\EnviaEmail\obj\Debug\net6.0\EnviaEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\source\repos\AutoEmails\EnviaEmail\obj\Debug\net6.0\EnviaEmail.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\AutoEmails\EnviaEmail\obj\Debug\net6.0\EnviaEmail.AssemblyInfo.cs
+C:\Users\Filip\source\repos\AutoEmails\EnviaEmail\obj\Debug\net6.0\EnviaEmail.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\AutoEmails\EnviaEmail\bin\Debug\net6.0\EnviaEmail .deps.json
+C:\Users\Filip\source\repos\AutoEmails\EnviaEmail\bin\Debug\net6.0\EnviaEmail .dll
+C:\Users\Filip\source\repos\AutoEmails\EnviaEmail\bin\Debug\net6.0\EnviaEmail .pdb
+C:\Users\Filip\source\repos\AutoEmails\EnviaEmail\obj\Debug\net6.0\EnviaEmail .dll
+C:\Users\Filip\source\repos\AutoEmails\EnviaEmail\obj\Debug\net6.0\refint\EnviaEmail .dll
+C:\Users\Filip\source\repos\AutoEmails\EnviaEmail\obj\Debug\net6.0\EnviaEmail .pdb
+C:\Users\Filip\source\repos\AutoEmails\EnviaEmail\obj\Debug\net6.0\ref\EnviaEmail .dll

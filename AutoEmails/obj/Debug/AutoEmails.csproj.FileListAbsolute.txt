@@ -1,0 +1,6 @@
+C:\Users\Filip\source\repos\AutoEmails\AutoEmails\obj\Debug\AutoEmails.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\AutoEmails\AutoEmails\obj\Debug\AutoEmails.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\source\repos\AutoEmails\AutoEmails\obj\Debug\AutoEmails.Form1.resources
+C:\Users\Filip\source\repos\AutoEmails\AutoEmails\obj\Debug\AutoEmails.Properties.Resources.resources
+C:\Users\Filip\source\repos\AutoEmails\AutoEmails\obj\Debug\AutoEmails.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\AutoEmails\AutoEmails\obj\Debug\AutoEmails.csproj.CoreCompileInputs.cache
